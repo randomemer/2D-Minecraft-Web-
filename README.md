@@ -1,3 +1,3 @@
 # 2D-Minecraft-Web
 
-[https://randomemer.github.io/2d-minecraft-web/](play) this game.
+[play](https://randomemer.github.io/2d-minecraft-web/) this game.
